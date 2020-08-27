@@ -1,3 +1,2 @@
 contains css code.
-I enjoy playing with styling of web pages etc.
-so let me do my work.
+major part of the webpage which atrracts user by the way we create our web page.
