@@ -1,3 +1,4 @@
 this contains javascript code.
 Here is the crucial part which is based on functionality.
 Logic is important.
+and finally its is done.
